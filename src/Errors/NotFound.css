@@ -1,0 +1,7 @@
+@import url('//fonts.googleapis.com/css?family=Ubuntu&display=swap');
+
+.Message {
+    font-weight: normal;
+    font-size: 1em;
+    font-family: 'Ubuntu', sans-serif;
+}

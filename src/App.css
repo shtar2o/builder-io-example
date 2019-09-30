@@ -1,0 +1,15 @@
+@import url('//fonts.googleapis.com/css?family=Ubuntu&display=swap');
+
+.App {
+    margin: 25px 25px 0;
+}
+
+.ContainerTitle {
+    font-weight: bold;
+    font-size: 2em;
+    font-family: 'Ubuntu', sans-serif;
+}
+
+.Builder {
+    margin-top: 25px;
+}
